@@ -4,9 +4,9 @@ The name of the directories is composed as follows:
   logic_origin_format
 
 * the logic
-  ** ipl = Intuitionistic Propositional logic
-  ** cpl = Classical Propositional Logic
-  ** s4  = S4 Propositional Modal Logic    
+    * ipl = Intuitionistic Propositional logic
+    * cpl = Classical Propositional Logic
+    * s4  = S4 Propositional Modal Logic    
 
 * the name of the problems (either the library name, or the family
   name or the source of the problem)
