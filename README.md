@@ -1,8 +1,7 @@
 ##Some problem collections for provers in JTabWb format
 
-###The name of the directories is composed as follows:
-
-     >logic_origin_format
+The name of the directories is composed as follows:
+  logic_origin_format
 
 * the logic
     >ipl = Intuitionistic Propositional logic
