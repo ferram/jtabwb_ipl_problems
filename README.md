@@ -25,7 +25,6 @@ The name of the directories is composed as follows:
   > implications. In: M. Davis, A. Fehnker, A. McIver, A. Voronkov
   >(eds.) LPAR-20, vol. 9450, pp. 622–637. Springer (2015)
 
-
 ## s4_BHS_jtabwb/
   A collection of problems for S4 from:
   
