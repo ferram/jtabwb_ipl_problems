@@ -8,11 +8,11 @@ The name of the directories is composed as follows:
     * cpl = Classical Propositional Logic
     * s4  = S4 Propositional Modal Logic    
 
-* the name of the problems (either the library name, or the family
+* the name of the collection (either the library name, or the family
   name or the source of the problem)
 
 * the problem format
-  jtabwb - predefined jtabwb problem reader
+  jtabwb - jtabwb problem reader
 
 
 ### ipl_randomXX_jtabwb/
